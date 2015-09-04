@@ -1,5 +1,10 @@
 
-/*
+/*.uvgui.dopod
+/*.uvopt
+/*.uvproj
+/*.obj
+/*.build_log.htm
+/*.lnp
 
 !*.c
 !*.hex
