@@ -1,5 +1,8 @@
 /*/Listings/
 /*/Objects/
 *.uvproj
+*.uvgui.dopod
+*.uvopt
+*.A51
 
 !/*/Objects/*.hex
