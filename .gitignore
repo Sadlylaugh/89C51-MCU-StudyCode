@@ -1,6 +1,5 @@
-
-!.c
-!.hex
-!.h
-!.gitignore
 /*
+!*.c
+!*.hex
+!*.h
+!.gitignore
